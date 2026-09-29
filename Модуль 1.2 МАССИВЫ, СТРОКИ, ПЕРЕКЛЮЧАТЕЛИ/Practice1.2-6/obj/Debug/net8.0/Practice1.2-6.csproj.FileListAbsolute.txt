@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Practice1.2-6\bin\Debug\net8.0\Practice1.2-6.exe
+C:\Users\Lenovo\source\repos\Practice1.2-6\bin\Debug\net8.0\Practice1.2-6.deps.json
+C:\Users\Lenovo\source\repos\Practice1.2-6\bin\Debug\net8.0\Practice1.2-6.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Practice1.2-6\bin\Debug\net8.0\Practice1.2-6.dll
+C:\Users\Lenovo\source\repos\Practice1.2-6\bin\Debug\net8.0\Practice1.2-6.pdb
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\Practice1.2-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\Practice1.2-6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\Practice1.2-6.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\Practice1.2-6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\Practice1.2-6.dll
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\refint\Practice1.2-6.dll
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\Practice1.2-6.pdb
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\Practice1.2-6.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Practice1.2-6\obj\Debug\net8.0\ref\Practice1.2-6.dll
