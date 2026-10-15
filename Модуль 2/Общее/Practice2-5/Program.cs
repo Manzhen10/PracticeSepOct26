@@ -10,7 +10,7 @@
         {
             now = nt;
             Console.WriteLine($"[СЕНСОР]: Температура изменилась на {now} градусов");
-            TemperatureChanged?.Invoke(now);
+            TemperatureChanged.Invoke(now);
         }
     }
 }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Practice2-5\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 2\\\u041E\u0431\u0449\u0435\u0435\\Practice2-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6464E9C9-19D5-44C5-BC2E-90E6DFAF9D69}|Practice2-5.csproj|c:\\users\\lenovo\\source\\repos\\practice2-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6464E9C9-19D5-44C5-BC2E-90E6DFAF9D69}|Practice2-5.csproj|c:\\users\\lenovo\\desktop\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\\u043C\u043E\u0434\u0443\u043B\u044C 2\\\u043E\u0431\u0449\u0435\u0435\\practice2-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6464E9C9-19D5-44C5-BC2E-90E6DFAF9D69}|Practice2-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Practice2-5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 2\\\u041E\u0431\u0449\u0435\u0435\\Practice2-5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Practice2-5\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDEAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 2\\\u041E\u0431\u0449\u0435\u0435\\Practice2-5\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T07:46:26.409Z",
               "EditorCaption": ""
