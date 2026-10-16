@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Practice4-4\bin\Debug\net8.0\Practice4-4.exe
+C:\Users\Lenovo\source\repos\Practice4-4\bin\Debug\net8.0\Practice4-4.deps.json
+C:\Users\Lenovo\source\repos\Practice4-4\bin\Debug\net8.0\Practice4-4.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Practice4-4\bin\Debug\net8.0\Practice4-4.dll
+C:\Users\Lenovo\source\repos\Practice4-4\bin\Debug\net8.0\Practice4-4.pdb
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\Practice4-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\Practice4-4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\Practice4-4.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\Practice4-4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\Practice4-4.dll
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\refint\Practice4-4.dll
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\Practice4-4.pdb
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\Practice4-4.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Practice4-4\obj\Debug\net8.0\ref\Practice4-4.dll

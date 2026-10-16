@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 4\\Practice4-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9279A3EB-DD90-46C7-862B-7E31A58E0285}|Practice4-5.csproj|c:\\users\\lenovo\\desktop\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\\u043C\u043E\u0434\u0443\u043B\u044C 4\\practice4-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9279A3EB-DD90-46C7-862B-7E31A58E0285}|Practice4-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 4\\Practice4-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 4\\Practice4-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwE8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T06:01:34.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

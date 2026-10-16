@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Practice3-5\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 3\\Practice3-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D92D085-1FD7-4CE3-A957-B0A6ABC02410}|Practice3-5.csproj|c:\\users\\lenovo\\source\\repos\\practice3-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D92D085-1FD7-4CE3-A957-B0A6ABC02410}|Practice3-5.csproj|c:\\users\\lenovo\\desktop\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\\u043C\u043E\u0434\u0443\u043B\u044C 3\\practice3-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D92D085-1FD7-4CE3-A957-B0A6ABC02410}|Practice3-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Practice3-5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 3\\Practice3-5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Practice3-5\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 3\\Practice3-5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T08:26:54.767Z",
               "EditorCaption": ""
