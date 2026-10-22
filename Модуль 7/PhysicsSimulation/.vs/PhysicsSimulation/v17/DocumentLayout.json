@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|c:\\users\\lenovo\\desktop\\\u043B\u0430\u0431\u044B\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\\u043C\u043E\u0434\u0443\u043B\u044C 7\\physicssimulation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|c:\\users\\lenovo\\source\\repos\\physicssimulation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F58E4D9-8EFD-47D5-AFE8-E51BD197E83C}|PhysicsSimulation.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +30,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,16 +43,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAABYCAAAAAAAAAAAAALUCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T08:07:53.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T08:07:53.962Z"
             }
           ]
         }
@@ -79,9 +78,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PhysicsSimulation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u041B\u0430\u0431\u044B\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 28.09-24.10\\\u041C\u043E\u0434\u0443\u043B\u044C 1\\\u041C\u043E\u0434\u0443\u043B\u044C 7\\PhysicsSimulation\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-22T08:07:54.834Z",

@@ -15,3 +15,20 @@ C:\Users\Lenovo\source\repos\PhysicsSimulation\obj\Debug\PhysicsSimulation.cspro
 C:\Users\Lenovo\source\repos\PhysicsSimulation\obj\Debug\PhysicsSimulation.exe
 C:\Users\Lenovo\source\repos\PhysicsSimulation\obj\Debug\PhysicsSimulation.pdb
 C:\Users\Lenovo\source\repos\PhysicsSimulation\obj\Debug\PhysicsSimulation.exe.config
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\bin\Debug\PhysicsSimulation.exe.config
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\bin\Debug\PhysicsSimulation.exe
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\bin\Debug\PhysicsSimulation.pdb
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.exe.config
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.g.resources
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.exe
+C:\Users\Lenovo\Desktop\Лабы\Практика 28.09-24.10\Модуль 1\Модуль 7\PhysicsSimulation\obj\Debug\PhysicsSimulation.pdb
