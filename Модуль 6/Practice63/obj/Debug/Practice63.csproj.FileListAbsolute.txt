@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Practice63\bin\Debug\Practice63.exe.config
+C:\Users\Lenovo\source\repos\Practice63\bin\Debug\Practice63.exe
+C:\Users\Lenovo\source\repos\Practice63\bin\Debug\Practice63.pdb
+C:\Users\Lenovo\source\repos\Practice63\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\source\repos\Practice63\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.g.resources
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.csproj.Up2Date
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.exe
+C:\Users\Lenovo\source\repos\Practice63\obj\Debug\Practice63.pdb

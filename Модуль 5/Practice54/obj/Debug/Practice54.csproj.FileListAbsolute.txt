@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Practice54\bin\Debug\Practice54.exe.config
+C:\Users\Lenovo\source\repos\Practice54\bin\Debug\Practice54.exe
+C:\Users\Lenovo\source\repos\Practice54\bin\Debug\Practice54.pdb
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.g.resources
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.exe
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.pdb
+C:\Users\Lenovo\source\repos\Practice54\obj\Debug\Practice54.exe.config

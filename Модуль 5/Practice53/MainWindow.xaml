@@ -1,0 +1,45 @@
+﻿<Window x:Class="Practice53.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Учет задач" Height="450" Width="700">
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBox x:Name="TaskBox"
+                     Width="480"
+                     Height="30"
+                     VerticalContentAlignment="Center"/>
+
+            <Button Content="Добавить"
+                    Width="100"
+                    Margin="10,0,0,0"
+                    Click="Add_Click"/>
+        </StackPanel>
+
+        <ListBox x:Name="TaskList"
+                 Grid.Row="1"
+                 Margin="0,0,0,10"
+                 FontSize="16"/>
+
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right">
+
+            <Button Content="Выполнено"
+                    Padding="12,7"
+                    Margin="0,0,10,0"
+                    Click="Done_Click"/>
+
+            <Button Content="Удалить"
+                    Padding="12,7"
+                    Click="Delete_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

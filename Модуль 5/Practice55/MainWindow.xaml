@@ -1,0 +1,58 @@
+﻿<Window x:Class="Practice55.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Калькулятор" Height="450" Width="400">
+
+    <Grid Margin="25">
+        <StackPanel VerticalAlignment="Center">
+
+            <TextBlock Text="Первое число"
+                       FontSize="16"
+                       Margin="0,0,0,5"/>
+
+            <TextBox x:Name="Num1"
+                     FontSize="18"
+                     Height="40"
+                     Padding="8"/>
+
+            <TextBlock Text="Второе число"
+                       FontSize="16"
+                       Margin="0,15,0,5"/>
+
+            <TextBox x:Name="Num2"
+                     FontSize="18"
+                     Height="40"
+                     Padding="8"/>
+
+            <UniformGrid Columns="4" Margin="0,20,0,20">
+                <Button Content="+"
+                        FontSize="24"
+                        Margin="3"
+                        Click="Plus_Click"/>
+
+                <Button Content="-"
+                        FontSize="24"
+                        Margin="3"
+                        Click="Minus_Click"/>
+
+                <Button Content="*"
+                        FontSize="24"
+                        Margin="3"
+                        Click="Umnozh_Click"/>
+
+                <Button Content="/"
+                        FontSize="24"
+                        Margin="3"
+                        Click="Delen_Click"/>
+            </UniformGrid>
+
+            <TextBlock x:Name="ResultText"
+                       Text="Результат: —"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       TextAlignment="Center"
+                       Margin="0,10,0,0"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
